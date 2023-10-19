@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kugelgewicht", "Kugelgewicht\Kugelgewicht.csproj", "{999472C5-678B-460B-A66F-04144B99168E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999472C5-678B-460B-A66F-04144B99168E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999472C5-678B-460B-A66F-04144B99168E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999472C5-678B-460B-A66F-04144B99168E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999472C5-678B-460B-A66F-04144B99168E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E7A5CA-F7DE-402F-95B5-C1DA7EDF92EC}
+	EndGlobalSection
+EndGlobal
