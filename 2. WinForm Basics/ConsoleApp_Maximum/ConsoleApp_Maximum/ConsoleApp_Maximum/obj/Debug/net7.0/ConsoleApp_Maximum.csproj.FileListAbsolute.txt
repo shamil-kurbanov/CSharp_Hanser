@@ -1,0 +1,14 @@
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\bin\Debug\net7.0\ConsoleApp_Maximum.exe
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\bin\Debug\net7.0\ConsoleApp_Maximum.deps.json
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\bin\Debug\net7.0\ConsoleApp_Maximum.runtimeconfig.json
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\bin\Debug\net7.0\ConsoleApp_Maximum.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\bin\Debug\net7.0\ConsoleApp_Maximum.pdb
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.AssemblyInfoInputs.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.AssemblyInfo.cs
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\refint\ConsoleApp_Maximum.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.pdb
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ConsoleApp_Maximum.genruntimeconfig.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\ConsoleApp_Maximum\ConsoleApp_Maximum\ConsoleApp_Maximum\obj\Debug\net7.0\ref\ConsoleApp_Maximum.dll
