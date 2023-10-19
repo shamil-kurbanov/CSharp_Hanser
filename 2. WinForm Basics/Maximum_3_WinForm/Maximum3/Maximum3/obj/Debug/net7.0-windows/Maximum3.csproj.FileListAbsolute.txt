@@ -1,0 +1,16 @@
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\bin\Debug\net7.0-windows\Maximum3.exe
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\bin\Debug\net7.0-windows\Maximum3.deps.json
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\bin\Debug\net7.0-windows\Maximum3.runtimeconfig.json
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\bin\Debug\net7.0-windows\Maximum3.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\bin\Debug\net7.0-windows\Maximum3.pdb
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.Form1.resources
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.csproj.GenerateResource.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.AssemblyInfoInputs.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.AssemblyInfo.cs
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\refint\Maximum3.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.pdb
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\Maximum3.genruntimeconfig.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\obj\Debug\net7.0-windows\ref\Maximum3.dll
