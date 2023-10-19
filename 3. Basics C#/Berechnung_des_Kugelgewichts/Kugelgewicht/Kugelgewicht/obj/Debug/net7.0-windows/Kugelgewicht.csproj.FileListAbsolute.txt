@@ -1,0 +1,16 @@
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\bin\Debug\net7.0-windows\Kugelgewicht.exe
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\bin\Debug\net7.0-windows\Kugelgewicht.deps.json
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\bin\Debug\net7.0-windows\Kugelgewicht.runtimeconfig.json
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\bin\Debug\net7.0-windows\Kugelgewicht.dll
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\bin\Debug\net7.0-windows\Kugelgewicht.pdb
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.Form1.resources
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.csproj.GenerateResource.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.AssemblyInfoInputs.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.AssemblyInfo.cs
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.csproj.CoreCompileInputs.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.dll
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\refint\Kugelgewicht.dll
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.pdb
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\Kugelgewicht.genruntimeconfig.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\obj\Debug\net7.0-windows\ref\Kugelgewicht.dll
