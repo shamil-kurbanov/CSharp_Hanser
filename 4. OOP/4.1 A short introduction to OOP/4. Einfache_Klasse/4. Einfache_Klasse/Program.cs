@@ -8,8 +8,9 @@ namespace _4._Einfache_Klasse
 		[STAThread]
 		static void Main()
 		{
-			// To customize application configuration such as set high DPI settings or default font,
-			// see https://aka.ms/applicationconfiguration.
+			// Das Erzeugen und Initialisieren einer Instanz von Person bedarf keines Konstruktors
+
+
 			ApplicationConfiguration.Initialize();
 			Application.Run(new Form1());
 		}

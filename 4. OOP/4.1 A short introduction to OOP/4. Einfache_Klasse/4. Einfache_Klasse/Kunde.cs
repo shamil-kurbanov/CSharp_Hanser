@@ -8,28 +8,33 @@ namespace _4._Einfache_Klasse
 {
 	internal class Kunde
 	{
-		private string anrede; // Feld
-		private string name; // Feld
+		private const char LF = (char)10; //private Konstante (Zeilenumbruch)
+
+		public string? Anrede; // öffentliche Feld
+		public string? Name; // öffentliche Feld
+		public int PLZ; // öffentliche Feld
+		public string? Ort; // öffentliche Feld
+		public bool Stammkunde; // öffentliche Feld
+		public double Guthaben; // öffentliche Feld
+
 
 		//Konstruktor
-		public Kunde(string anrede, string name)
-		{
-			this.anrede = anrede;
-			this.name = name;
-		}
 
-		//Eigenschaft
-		public string Name
-		{
-			get { return name; }
-			set { name = value; }
-		}
 
-		//Methode
+		// öffentliche Methode
 		public string Adresse()
 		{
-			string s = anrede + " " + Name;
+			string s = Anrede + " " + Name + LF + PLZ.ToString() + " " + Ort;
 			return s;
 		}
+		// öffentliche Methode
+		public void AddGuthaben(double betrag)
+		{
+			if (Stammkunde)
+			{
+				Guthaben += betrag;
+			}
+		}
+
 	}
 }
