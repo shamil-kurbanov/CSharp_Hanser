@@ -38,7 +38,7 @@ namespace _4._Einfache_Klasse
         public int PLZ { get; set; } // öffentliche Feld
         public string? Ort { get; set; } // öffentliche Feld
         public bool Stammkunde { get; set; } // öffentliche Feld
-        public double Guthaben { get; set; } // öffentliche Feld
+        public double Guthaben { get; private set; } // öffentliche Feld
 
 
         //Konstruktor
