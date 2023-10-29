@@ -51,12 +51,17 @@ namespace _4._Einfache_Klasse
 			return s;
 		}
 		// öffentliche Methode
-		public void AddGuthaben(double betrag)
+		public void AddGuthaben(double betrag) //erste Überladung
 		{
 			if (Stammkunde)
 			{
 				Guthaben += betrag;
 			}
+		}
+
+		public void AddGuthaben(double brutto, double mwst) //zweite Überladung
+		{
+			Guthaben += brutto / (1 + mwst);
 		}
 
 	}
