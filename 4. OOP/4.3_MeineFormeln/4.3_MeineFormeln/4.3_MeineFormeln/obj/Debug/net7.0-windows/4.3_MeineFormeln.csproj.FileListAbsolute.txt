@@ -1,0 +1,16 @@
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\bin\Debug\net7.0-windows\4.3_MeineFormeln.exe
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\bin\Debug\net7.0-windows\4.3_MeineFormeln.deps.json
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\bin\Debug\net7.0-windows\4.3_MeineFormeln.runtimeconfig.json
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\bin\Debug\net7.0-windows\4.3_MeineFormeln.dll
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\bin\Debug\net7.0-windows\4.3_MeineFormeln.pdb
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\_4._3_MeineFormeln.Form1.resources
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.csproj.GenerateResource.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.AssemblyInfoInputs.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.AssemblyInfo.cs
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.csproj.CoreCompileInputs.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.dll
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\refint\4.3_MeineFormeln.dll
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.pdb
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\4.3_MeineFormeln.genruntimeconfig.cache
+C:\Users\softd\Documents\GitHub\CSharp_Hanser\4. OOP\4.3_MeineFormeln\4.3_MeineFormeln\4.3_MeineFormeln\obj\Debug\net7.0-windows\ref\4.3_MeineFormeln.dll
