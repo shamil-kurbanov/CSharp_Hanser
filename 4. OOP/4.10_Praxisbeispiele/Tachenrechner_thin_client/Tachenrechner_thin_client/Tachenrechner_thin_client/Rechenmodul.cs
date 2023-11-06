@@ -20,6 +20,34 @@ namespace Tachenrechner_thin_client
             reg2 = new Register();
         }
 
+        //Ziffereingabe in aktuelles Register
+        public string NeueZiffer(string ziffer)
+        {
+            char z = ziffer[0];
+            if (state == 1) //zum ersten Register hinzufügen
+            {
+                return reg1.NeueZiffer(z);
+            }
+            else //zum zweiten Register hinzufügen
+            {
+                return reg1.Wert.ToString() + " " + op + " " + reg2.NeueZiffer(z);
+            }
+        }
+
+        //Letzte Ziffer des aktuellen Registers löschen und resultierenden Registerinhalt zurückgeben:
+        public string LoescheZiffer()
+        {
+            if (state == 1)
+            {
+                return reg1.LoeschZiffer();
+            }
+            else 
+            { 
+                return reg2.LoeschZiffer();
+            }
+        }
+
+        ////.......
 
     }
 }
