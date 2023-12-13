@@ -28,12 +28,81 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.components = new System.ComponentModel.Container();
-			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(800, 450);
-			this.Text = "Form1";
+			listBox1 = new ListBox();
+			button1 = new Button();
+			button2 = new Button();
+			button3 = new Button();
+			textBox1 = new TextBox();
+			SuspendLayout();
+			// 
+			// listBox1
+			// 
+			listBox1.FormattingEnabled = true;
+			listBox1.Location = new Point(38, 43);
+			listBox1.Name = "listBox1";
+			listBox1.Size = new Size(217, 264);
+			listBox1.TabIndex = 0;
+			// 
+			// button1
+			// 
+			button1.Location = new Point(361, 43);
+			button1.Name = "button1";
+			button1.Size = new Size(198, 57);
+			button1.TabIndex = 1;
+			button1.Text = "Aufsteigend sortieren";
+			button1.UseVisualStyleBackColor = true;
+			button1.Click += button1_Click_1;
+			// 
+			// button2
+			// 
+			button2.Location = new Point(361, 114);
+			button2.Name = "button2";
+			button2.Size = new Size(198, 57);
+			button2.TabIndex = 2;
+			button2.Text = "Sortierfolge umkehren";
+			button2.UseVisualStyleBackColor = true;
+			button2.Click += button2_Click_1;
+			// 
+			// button3
+			// 
+			button3.Location = new Point(361, 191);
+			button3.Name = "button3";
+			button3.Size = new Size(198, 57);
+			button3.TabIndex = 3;
+			button3.Text = "Suchen";
+			button3.UseVisualStyleBackColor = true;
+			button3.Click += button3_Click_1;
+			// 
+			// textBox1
+			// 
+			textBox1.Location = new Point(361, 280);
+			textBox1.Name = "textBox1";
+			textBox1.Size = new Size(198, 27);
+			textBox1.TabIndex = 4;
+			// 
+			// Form1
+			// 
+			AutoScaleDimensions = new SizeF(8F, 20F);
+			AutoScaleMode = AutoScaleMode.Font;
+			ClientSize = new Size(613, 399);
+			Controls.Add(textBox1);
+			Controls.Add(button3);
+			Controls.Add(button2);
+			Controls.Add(button1);
+			Controls.Add(listBox1);
+			Name = "Form1";
+			Text = "Form1";
+			Load += Form1_Load;
+			ResumeLayout(false);
+			PerformLayout();
 		}
 
 		#endregion
+
+		private ListBox listBox1;
+		private Button button1;
+		private Button button2;
+		private Button button3;
+		private TextBox textBox1;
 	}
 }
