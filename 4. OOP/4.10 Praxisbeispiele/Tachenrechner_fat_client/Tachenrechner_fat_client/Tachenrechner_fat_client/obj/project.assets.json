@@ -8,19 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Shamil\\.nuget\\packages\\": {}
+    "C:\\Users\\kurba\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.10 Praxisbeispiele\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client.csproj",
+      "projectUniqueName": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.10 Praxisbeispiele\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client.csproj",
       "projectName": "Tachenrechner_fat_client",
-      "projectPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.10 Praxisbeispiele\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client.csproj",
-      "packagesPath": "C:\\Users\\Shamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.10 Praxisbeispiele\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\obj\\",
+      "projectPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.10 Praxisbeispiele\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client.csproj",
+      "packagesPath": "C:\\Users\\kurba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.10 Praxisbeispiele\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\Tachenrechner_fat_client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Shamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kurba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
