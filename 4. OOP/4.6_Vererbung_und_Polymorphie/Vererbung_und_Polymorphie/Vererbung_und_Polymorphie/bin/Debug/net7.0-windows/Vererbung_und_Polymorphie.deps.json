@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Vererbung_und_Polymorphie/1.0.0": {
+        "runtime": {
+          "Vererbung_und_Polymorphie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vererbung_und_Polymorphie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
