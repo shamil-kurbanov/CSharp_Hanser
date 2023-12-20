@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\softd\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj": {}
+    "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\softd\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj": {
+    "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\softd\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj",
+        "projectUniqueName": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj",
         "projectName": "Vererbung_und_Polymorphie",
-        "projectPath": "C:\\Users\\softd\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj",
-        "packagesPath": "C:\\Users\\softd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\softd\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\obj\\",
+        "projectPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie.csproj",
+        "packagesPath": "C:\\Users\\kurba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.6_Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\Vererbung_und_Polymorphie\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\softd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kurba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

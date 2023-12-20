@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj": {}
+    "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj": {
+    "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj",
+        "projectUniqueName": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj",
         "projectName": "4. Einfache_Klasse",
-        "projectPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj",
-        "packagesPath": "C:\\Users\\Shamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\obj\\",
+        "projectPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\4. Einfache_Klasse.csproj",
+        "packagesPath": "C:\\Users\\kurba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\4. OOP\\4.1 A short introduction to OOP\\4. Einfache_Klasse\\4. Einfache_Klasse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kurba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

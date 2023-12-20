@@ -53,7 +53,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.Location = new Point(297, 44);
+            label2.Location = new Point(334, 44);
             label2.Name = "label2";
             label2.Size = new Size(89, 17);
             label2.TabIndex = 1;
@@ -71,7 +71,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(328, 93);
+            label4.Location = new Point(359, 93);
             label4.Name = "label4";
             label4.Size = new Size(38, 15);
             label4.TabIndex = 3;
@@ -89,7 +89,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(328, 160);
+            label6.Location = new Point(359, 160);
             label6.Name = "label6";
             label6.Size = new Size(38, 15);
             label6.TabIndex = 5;
@@ -114,20 +114,18 @@
             // 
             // button1
             // 
-            button1.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
             button1.Location = new Point(78, 323);
             button1.Name = "button1";
             button1.Size = new Size(319, 43);
             button1.TabIndex = 8;
-            button1.Text = "Einkaufen";
+            button1.Text = "button1";
             button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(518, 450);
+            ClientSize = new Size(510, 450);
             Controls.Add(button1);
             Controls.Add(textBox1);
             Controls.Add(label7);
@@ -138,8 +136,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
-            Text = " Privat- and Firmenkunde";
-            Load += Form1_Load;
+            Text = "Form1";
             ResumeLayout(false);
             PerformLayout();
         }
