@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj": {}
+    "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj": {
+    "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj",
+        "projectUniqueName": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj",
         "projectName": "ConsoleApp_Maximum",
-        "projectPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj",
-        "packagesPath": "C:\\Users\\kurba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\obj\\",
+        "projectPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum.csproj",
+        "packagesPath": "C:\\Users\\Shamil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\ConsoleApp_Maximum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kurba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

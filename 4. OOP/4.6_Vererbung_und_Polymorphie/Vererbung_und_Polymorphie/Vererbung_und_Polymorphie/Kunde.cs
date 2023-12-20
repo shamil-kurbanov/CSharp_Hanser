@@ -36,5 +36,11 @@ namespace Vererbung_und_Polymorphie
             }
         }
 
+        //Normale Methode
+        public void Test()
+        {
+            MessageBox.Show("Hallo Kunde!");
+        }
+
     }
 }

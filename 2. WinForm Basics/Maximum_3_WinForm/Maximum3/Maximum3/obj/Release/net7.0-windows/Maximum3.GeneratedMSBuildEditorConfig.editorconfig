@@ -14,6 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Maximum3
-build_property.ProjectDir = C:\Users\kurba\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\softd\Documents\GitHub\CSharp_Hanser\2. WinForm Basics\Maximum_3_WinForm\Maximum3\Maximum3\

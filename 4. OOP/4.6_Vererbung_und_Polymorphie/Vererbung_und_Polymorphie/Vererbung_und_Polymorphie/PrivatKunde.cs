@@ -21,7 +21,7 @@ namespace Vererbung_und_Polymorphie
         public override string GetAdresse()
         {
             const char LF = (char)10; //Zeilenvorschub
-            return base.GetAdresse();
+            return base.GetAdresse() + LF + WohnOrt;
         }
 
         //Die Methode AddGuthaben() wird komplett neu überschrieben. Ohne Rücksicht auf die Zugehörigkeit zur Stammkundschaft
@@ -33,6 +33,11 @@ namespace Vererbung_und_Polymorphie
             Guthaben += 0.05 * betrag;
         }
 
+        //Normale Methode Test() aus Basisklasse
+        public new void Test()
+        {
+            MessageBox.Show("Hello Privatkunde!");
+        }
     }
 
    

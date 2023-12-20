@@ -8,19 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kurba\\.nuget\\packages\\": {}
+    "C:\\Users\\Shamil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\Maximum_3_WinForm\\Maximum3\\Maximum3\\Maximum3.csproj",
+      "projectUniqueName": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\Maximum_3_WinForm\\Maximum3\\Maximum3\\Maximum3.csproj",
       "projectName": "Maximum3",
-      "projectPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\Maximum_3_WinForm\\Maximum3\\Maximum3\\Maximum3.csproj",
-      "packagesPath": "C:\\Users\\kurba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kurba\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\Maximum_3_WinForm\\Maximum3\\Maximum3\\obj\\",
+      "projectPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\Maximum_3_WinForm\\Maximum3\\Maximum3\\Maximum3.csproj",
+      "packagesPath": "C:\\Users\\Shamil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_Hanser\\2. WinForm Basics\\Maximum_3_WinForm\\Maximum3\\Maximum3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kurba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Shamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
