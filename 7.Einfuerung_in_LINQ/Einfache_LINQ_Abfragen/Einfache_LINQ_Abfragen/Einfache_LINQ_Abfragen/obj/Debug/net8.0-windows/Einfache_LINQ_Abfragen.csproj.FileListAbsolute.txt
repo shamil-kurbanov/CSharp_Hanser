@@ -1,0 +1,17 @@
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\bin\Debug\net8.0-windows\Einfache_LINQ_Abfragen.exe
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\bin\Debug\net8.0-windows\Einfache_LINQ_Abfragen.deps.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\bin\Debug\net8.0-windows\Einfache_LINQ_Abfragen.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\bin\Debug\net8.0-windows\Einfache_LINQ_Abfragen.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\bin\Debug\net8.0-windows\Einfache_LINQ_Abfragen.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.Form1.resources
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.csproj.GenerateResource.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.sourcelink.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\refint\Einfache_LINQ_Abfragen.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\Einfache_LINQ_Abfragen.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\7.Einfuerung_in_LINQ\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\Einfache_LINQ_Abfragen\obj\Debug\net8.0-windows\ref\Einfache_LINQ_Abfragen.dll

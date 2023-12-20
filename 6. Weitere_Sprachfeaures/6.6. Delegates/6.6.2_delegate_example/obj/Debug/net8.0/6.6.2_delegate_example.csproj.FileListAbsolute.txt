@@ -1,0 +1,15 @@
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.sourcelink.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\bin\Debug\net8.0\6.6.2_delegate_example.exe
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\bin\Debug\net8.0\6.6.2_delegate_example.deps.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\bin\Debug\net8.0\6.6.2_delegate_example.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\bin\Debug\net8.0\6.6.2_delegate_example.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\bin\Debug\net8.0\6.6.2_delegate_example.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\refint\6.6.2_delegate_example.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\6.6.2_delegate_example.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.6. Delegates\6.6.2_delegate_example\obj\Debug\net8.0\ref\6.6.2_delegate_example.dll

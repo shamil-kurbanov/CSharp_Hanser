@@ -1,0 +1,15 @@
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\bin\Debug\net8.0\6.8_MyArray.exe
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\bin\Debug\net8.0\6.8_MyArray.deps.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\bin\Debug\net8.0\6.8_MyArray.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\bin\Debug\net8.0\6.8_MyArray.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\bin\Debug\net8.0\6.8_MyArray.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.sourcelink.json
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\refint\6.8_MyArray.dll
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\6.8_MyArray.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\CSharp_Hanser\6. Weitere_Sprachfeaures\6.2_OperatorenUeberladung\6.8_MyArray\obj\Debug\net8.0\ref\6.8_MyArray.dll

@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kugelgewicht
-build_property.ProjectDir = C:\Users\softd\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\
+build_property.ProjectDir = C:\Users\kurba\Documents\GitHub\CSharp_Hanser\3. Basics C#\Berechnung_des_Kugelgewichts\Kugelgewicht\Kugelgewicht\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
